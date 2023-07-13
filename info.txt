@@ -1,0 +1,4 @@
+npx is one time execute
+npm is package
+
+1.the html code in the app.js is not html that is with in {} [java script syntax extension(x)]
